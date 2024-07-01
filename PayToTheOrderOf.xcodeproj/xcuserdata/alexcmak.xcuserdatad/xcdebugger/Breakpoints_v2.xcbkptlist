@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "240F7B7F-26D8-4692-9483-E4321675984D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37F1647E-4E19-409D-B027-2D5219056DA6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PayToTheOrderOf/ToEnglish.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "group()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "37F1647E-4E19-409D-B027-2D5219056DA6 - fa9f7ae1c049f0ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayToTheOrderOf.ToEnglish.list_groups() -&gt; ()"
+                  moduleName = "PayToTheOrderOf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexcmak/Desktop/Swift/PayToTheOrderOf/PayToTheOrderOf/ToEnglish.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "37F1647E-4E19-409D-B027-2D5219056DA6 - cd4392f39d595efe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayToTheOrderOf.ToEnglish.group() -&gt; ()"
+                  moduleName = "PayToTheOrderOf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexcmak/Desktop/Swift/PayToTheOrderOf/PayToTheOrderOf/ToEnglish.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1E0DBAB-4398-4217-A651-B8340B56816B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PayToTheOrderOf/ToEnglish.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "toEnglish(str:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F1E0DBAB-4398-4217-A651-B8340B56816B - dbdc76c0dbf0cf70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayToTheOrderOf.ToEnglish.to_english(val: Swift.Int) -&gt; Swift.String"
+                  moduleName = "PayToTheOrderOf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexcmak/Desktop/Swift/PayToTheOrderOf/PayToTheOrderOf/ToEnglish.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "F1E0DBAB-4398-4217-A651-B8340B56816B - ceb92e44a0df6191"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayToTheOrderOf.ToEnglish.to_english() -&gt; Swift.String"
+                  moduleName = "PayToTheOrderOf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexcmak/Desktop/Swift/PayToTheOrderOf/PayToTheOrderOf/ToEnglish.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "F1E0DBAB-4398-4217-A651-B8340B56816B - 418898ec03940b2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayToTheOrderOf.ToEnglish.toEnglish(str: Swift.String) -&gt; Swift.String"
+                  moduleName = "PayToTheOrderOf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexcmak/Desktop/Swift/PayToTheOrderOf/PayToTheOrderOf/ToEnglish.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C780EC73-8E6B-4B24-A57E-2A4B12915ABD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PayToTheOrderOf/ToEnglish.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "convert_nn(val:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C780EC73-8E6B-4B24-A57E-2A4B12915ABD - 2ac77a67eaa1a2b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayToTheOrderOf.ToEnglish.convert_nn(val: Swift.Int) -&gt; Swift.String"
+                  moduleName = "PayToTheOrderOf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexcmak/Desktop/Swift/PayToTheOrderOf/PayToTheOrderOf/ToEnglish.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "1840">
+               </Location>
+               <Location
+                  uuid = "C780EC73-8E6B-4B24-A57E-2A4B12915ABD - 2ac77a67eaa1a2b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayToTheOrderOf.ToEnglish.convert_nn(val: Swift.Int) -&gt; Swift.String"
+                  moduleName = "PayToTheOrderOf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexcmak/Desktop/Swift/PayToTheOrderOf/PayToTheOrderOf/ToEnglish.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "1796">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35E514F8-FF20-4643-890E-555D9512A837"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PayToTheOrderOf/ToEnglish.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "toEnglish(str:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEA8FDB1-8B17-47F8-A2C4-56D4F0718187"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PayToTheOrderOf/ToEnglish.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "toEnglish(str:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FEA8FDB1-8B17-47F8-A2C4-56D4F0718187 - 418898ec03940a55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayToTheOrderOf.ToEnglish.toEnglish(str: Swift.String) -&gt; Swift.String"
+                  moduleName = "PayToTheOrderOf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexcmak/Desktop/Swift/PayToTheOrderOf/PayToTheOrderOf/ToEnglish.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "FEA8FDB1-8B17-47F8-A2C4-56D4F0718187 - 418898ec03940a55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayToTheOrderOf.ToEnglish.toEnglish(str: Swift.String) -&gt; Swift.String"
+                  moduleName = "PayToTheOrderOf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexcmak/Desktop/Swift/PayToTheOrderOf/PayToTheOrderOf/ToEnglish.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7C23ED5-DDC8-45C6-8E0D-7268141D1359"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PayToTheOrderOf/ToEnglish.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "group()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "385A3290-DE57-4E1C-A2A1-8D2D68B98279"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PayToTheOrderOf/ToEnglish.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "to_english()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "385A3290-DE57-4E1C-A2A1-8D2D68B98279 - ceb92e44a0df61f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayToTheOrderOf.ToEnglish.to_english() -&gt; Swift.String"
+                  moduleName = "PayToTheOrderOf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexcmak/Desktop/Swift/PayToTheOrderOf/PayToTheOrderOf/ToEnglish.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "385A3290-DE57-4E1C-A2A1-8D2D68B98279 - ceb92e44a0df623c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PayToTheOrderOf.ToEnglish.to_english() -&gt; Swift.String"
+                  moduleName = "PayToTheOrderOf"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexcmak/Desktop/Swift/PayToTheOrderOf/PayToTheOrderOf/ToEnglish.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04BDDDD6-35C3-4B99-A1AC-3B09DC5CBF61"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PayToTheOrderOf/ToEnglish.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "init(n:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "257E1CB9-B812-4C6F-8AF6-958BF8FE42CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PayToTheOrderOf/ToEnglish.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "to_english()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72F99163-47DE-49D3-AD25-2332D856D720"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PayToTheOrderOf/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4783E670-863D-4536-87BD-5EF5696DEC8C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PayToTheOrderOf/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
